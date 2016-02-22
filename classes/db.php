@@ -14,5 +14,5 @@ class DB {
 			$ret[]=$row;
 		}
 		return $ret;
-	}1
+	}
 }
